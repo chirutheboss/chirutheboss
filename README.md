@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**chirutheboss/chirutheboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 ###
 
 - 🔭 I’m currently working on ...Nothing
 - 🌱 I’m currently learning ...Nothing
@@ -12,6 +7,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...Message Me
 - ⚡ Fun fact: ...I Haven't Given Any Infor About Me
--->
 
 Contact Me : https://telegram.dog/chirug09 
