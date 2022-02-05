@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: [User is out of reachable zone](https://t.me/chirug09)
 
-- 👨‍💻 All of my projects are available at [https://t.me/+_2JyWabdEg45YTNl](https://t.me/+_2JyWabdEg45YTNl)
+- 👨‍💻 All of my projects are available at [https://telegram.dog/+_2JyWabdEg45YTNl](https://telegram.dog/+_2JyWabdEg45YTNl)
 
 - ⚡ Fun fact **I am a mystery! You can't find anything about me.🤷‍♀️**
 
