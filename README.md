@@ -3,7 +3,7 @@
 
 <h3 align="center">A mystery to be solved!</h3>
 
-<p align="center"><a href="https://t.me/chiru_wayne"><img src="https://img.shields.io/badge/Telegram-Contact%20%40chirug-red.svg?logo=telegram"></a></p>
+<p align="center"><a href="https://t.me/chiru_wayne"><img src="https://img.shields.io/badge/Telegram-Contact%20%40chiru_wayne-red.svg?logo=telegram"></a></p>
 
 - 🔭 I will not work on: [Anything](https://www.dictionary.com/browse/anything)
 
